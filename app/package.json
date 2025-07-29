@@ -1,0 +1,12 @@
+{
+  "name": "program",
+  "version": "1.0.0",
+  "description": "mk",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node demo.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
